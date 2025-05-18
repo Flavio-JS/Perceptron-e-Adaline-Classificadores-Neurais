@@ -49,6 +49,12 @@ Definir se deseja ver detalhes do treinamento
 python -m scripts.grafico-de-comparacao
 ```
 
+3. Gerar Gráficos de Funções Lógicas com Perceptron e Adaline
+
+```bash
+python -m scripts.plot_logic_functions
+```
+
 ## 🧠 Sobre os Modelos
 
 ### Perceptron
