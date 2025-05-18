@@ -15,7 +15,7 @@ Implementação dos algoritmos Perceptron e Adaline para classificação de fun�
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/perceptron-and-adaline.git
+git clone https://github.com/Flavio-JS/Perceptron-e-Adaline-Classificadores-Neurais.git
 cd perceptron-and-adaline
 ```
 
